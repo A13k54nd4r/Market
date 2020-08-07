@@ -124,8 +124,7 @@ extension ItemViewController: UICollectionViewDataSource, UICollectionViewDelega
         }
         return cell
     }
-    
-    
+        
 }
 
 extension ItemViewController: UICollectionViewDelegateFlowLayout {

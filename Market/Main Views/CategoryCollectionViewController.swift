@@ -86,3 +86,4 @@ extension CategoryCollectionViewController: UICollectionViewDelegateFlowLayout {
         return sectionInsets.left
     }
 }
+

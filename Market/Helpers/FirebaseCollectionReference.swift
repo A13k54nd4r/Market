@@ -19,3 +19,4 @@ enum FCollectionReference: String{
 func FirebaseReference(_collectionReference: FCollectionReference) -> CollectionReference {
     return Firestore.firestore().collection(_collectionReference.rawValue)
 }
+

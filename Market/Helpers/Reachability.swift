@@ -38,3 +38,4 @@ public class Reachability {
         return (isReachable && !needConnection)
     }
 }
+

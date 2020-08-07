@@ -16,3 +16,4 @@ class ImageCollectionViewCell: UICollectionViewCell {
         imageView.image = itemImage
     }
 }
+

@@ -16,3 +16,4 @@ func convertToCurrency(_ number: Double) -> String {
     currencyFormatter.locale = Locale.current
     return currencyFormatter.string(from: NSNumber(value: number))!
 }
+
